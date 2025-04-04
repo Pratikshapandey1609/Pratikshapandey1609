@@ -11,7 +11,7 @@ Hello ! I’m **Pratiksha Pandey** – a Full-Stack MERN Developer , on a missio
 ## 🌱 Skills & Tools
 - **Frontend**: React, JavaScript, HTML, CSS, Tailwind CSS
 - **Backend**: Node.js, Express.js, MongoDB, REST APIs
-- **Languages**: JavaScript, Core Java Backend (in progress)  ,
+- **Languages**: JavaScript, Core Java , Backend (in progress)  ,
 - **Extras**: Git, Docker (learning), and a knack for hackathons
 
 ## 💻 What I’m Working On
