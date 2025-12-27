@@ -1,19 +1,36 @@
 # 💫 About Me:
-Hi, I’m Pratiksha Pandey
-I’m a Full-Stack MERN Developer passionate about building scalable, user-centric web applications and solving real-world problems through clean and efficient code.
-I enjoy turning ideas into reality using modern web technologies, exploring backend architectures, and continuously sharpening my problem-solving skills. From crafting responsive UIs to designing robust APIs, I love working across the full stack.
-
-💡 What I focus on:
-
-Building scalable MERN applications
-Writing clean, maintainable, and efficient code
-Backend development & system design fundamentals
-Continuous learning and real-world problem solving
-
+Hi, I'm Pratiksha Pandey 👋  
+A Full-Stack MERN Developer focused on building scalable, real-world web applications.  
+I work across frontend and backend using React, Node.js, Express, MongoDB, and Docker.  
+I enjoy solving problems, learning system design basics, and turning ideas into production-ready apps.
 🚀 Always curious. Always building. Always improving.>
 
+# 🚀 Projects : 
+📄 Resume Parsing & Analyzer (MERN)
+    AI-powered web app that analyzes resumes and provides role-specific improvement suggestions.
+    MERN stack with React, Node.js, Express, MongoDB 
+    Resume upload, parsing, and structured feedback
+    Responsive UI with Tailwind CSS & multilingual support
+    🔗 GitHub:(https://github.com/Pratikshapandey1609/Resume-Parssing) 
+    🌐 Live Demo: Coming Soon
 
-## 🌐 Socials:
+💬 Real-Time Chat Application (MERN)
+    A secure real-time chat platform with modern UI and scalable backend.
+    Built with React, Node.js, Express, MongoDB, JWT
+    Real-time messaging, authentication, and notifications
+    Clean, responsive UI using Tailwind CSS 
+    🔗 GitHub : (https://github.com/Pratikshapandey1609/RealTime_ChatApp)
+    🌐 Live Demo: Coming Soon
+
+💰 Expense Tracker (MERN)
+    Web app to manage income and expenses with visual insights.
+    MERN stack with RESTful APIs
+    CRUD operations and data visualization using Recharts
+    Excel export and responsive design
+   🔗 GitHub:(https://github.com/Pratikshapandey1609/Expense-Tracker)
+   🌐 Live Demo: Coming Soon
+   
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratiksha-pandey-147770276) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratishapandey239@gmail.com) 
 
 # 💻 Tech Stack:
