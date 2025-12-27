@@ -3,7 +3,8 @@ Hi, I'm Pratiksha Pandey 👋
 A Full-Stack MERN Developer focused on building scalable, real-world web applications.  
 I work across frontend and backend using React, Node.js, Express, MongoDB, and Docker.  
 I enjoy solving problems, learning system design basics, and turning ideas into production-ready apps.
-🚀 Always curious. Always building. Always improving.>
+
+🚀 Always curious. Always building. Always improving..
 
 # 🚀 Projects : 
 📄 Resume Parsing & Analyzer (MERN)
