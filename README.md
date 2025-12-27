@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hello ! I’m Pratiksha Pandey – <br>a Full-Stack MERN Developer , on a mission to build scalable apps, solve real-world puzzles, and sprinkle some tech magic everywhere I go.<br>Welcome to my corner of GitHub!<br>
+Hi, I’m Pratiksha Pandey
+I’m a Full-Stack MERN Developer passionate about building scalable, user-centric web applications and solving real-world problems through clean and efficient code.
+I enjoy turning ideas into reality using modern web technologies, exploring backend architectures, and continuously sharpening my problem-solving skills. From crafting responsive UIs to designing robust APIs, I love working across the full stack.
+
+💡 What I focus on:
+
+Building scalable MERN applications
+Writing clean, maintainable, and efficient code
+Backend development & system design fundamentals
+Continuous learning and real-world problem solving
+
+🚀 Always curious. Always building. Always improving.>
 
 
 ## 🌐 Socials:
