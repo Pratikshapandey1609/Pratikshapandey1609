@@ -274,8 +274,7 @@ A web application for managing income and expenses with visual financial insight
   &nbsp; • &nbsp;
   🐙 <a href="https://github.com/Pratikshapandey1609">GitHub</a>
    &nbsp; • &nbsp;
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e0a9aeef-404f-4039-95c6-636e8a6c66a2" />
- <a href="https://www.linkedin.com/in/pratiksha-pandey-147770276/">Linkedin</a>
+  🐙<a href="https://www.linkedin.com/in/pratiksha-pandey-147770276/">Linkedin</a>
 </p>
 
 <p align="center">
